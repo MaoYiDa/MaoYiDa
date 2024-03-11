@@ -1,0 +1,5 @@
+在vscode中，新建jupyter notebook的方法是，shift+ctrl+p，然后输入jupyter，选择新建jupyter notebook。
+# 2. 在jupyter notebook中，新建cell的方法是，按b键。
+# 3. 在jupyter notebook中，运行cell的方法是，按shift+enter。
+# 4. 在jupyter notebook中，将cell转换为markdown的方法是，按m键。
+# 5. 在jupyter notebook中，将cell转换为code的方法是，按y键。
